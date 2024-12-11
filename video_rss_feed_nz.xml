@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+    <channel>
+        <title>Your Video RSS Feed Title - nz</title>
+        <link>https://travelbucketlist.xyz</link>
+        <description>Generated from Google Sheets - Videos (nz)</description>
+        <language>en-us</language>
+    <item>
+      <title><![CDATA[Global Struggle for a Plastics Treaty Agreement: Nations at an Impasse]]></title>
+      <link>https://www.dropbox.com/scl/fi/pn23yk022vuh46bz2mnkb/CCvideo-002-Global-Struggle-for-a-Plastics-Treaty-Agreement-Nations-at-an-Impasse.mp4?rlkey=omlpt1j5w8whay5cdmhshq6w6&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">9775eaa3-72a2-190c-2a18-063bad8c8f19</guid>
+      <pubDate>Wed, 11 Dec 2024 16:33:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[🌍 The fight for a global plastics treaty is heating up! Nations are grappling with tough decisions as they debate how to curb plastic pollution. With stakes this high, every choice matters for our planet's future. Will global leaders find common ground, or remain at an impasse? 🤔 #PlasticsTreaty #Sustainability #GlobalChallenge]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/pn23yk022vuh46bz2mnkb/CCvideo-002-Global-Struggle-for-a-Plastics-Treaty-Agreement-Nations-at-an-Impasse.mp4?rlkey=omlpt1j5w8whay5cdmhshq6w6&amp;dl=1" medium="video">
+          <media:title><![CDATA[Global Struggle for a Plastics Treaty Agreement: Nations at an Impasse]]></media:title>
+          <media:description><![CDATA[🌍 The fight for a global plastics treaty is heating up! Nations are grappling with tough decisions as they debate how to curb plastic pollution. With stakes this high, every choice matters for our planet's future. Will global leaders find common ground, or remain at an impasse? 🤔 #PlasticsTreaty #Sustainability #GlobalChallenge]]></media:description>
+      </media:content>
+      <media:thumbnail url="https://climatecosmos.com/wp-content/uploads/2024/11/pexels-photo-8106784.jpegautocompresscstinysrgbh650w940" />
+    </item>
+    </channel>
+</rss>
