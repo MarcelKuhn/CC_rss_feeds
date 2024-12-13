@@ -257,5 +257,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
       <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/2a2112fc-ac21-417f-8b71-62b3cd920ec2/IMAGE/thumbnails/f4d80fde-fd44-47d6-bfd1-92f209648cce_CCvideo-019-How Everyday Actions Can Help Combat Climate Change.jpg" />
     </item>
+    <item>
+      <title><![CDATA[10 Facts About the Hidden Costs of Climate Change]]></title>
+      <link>https://www.dropbox.com/scl/fi/eg9nylaph0nh3oaz9apcp/CCvideo-020-10-Facts-About-the-Hidden-Costs-of-Climate-Change.mp4?rlkey=uznhcnci50flglh9g6knlrzmt&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">2a4d557c-17c4-2507-0642-3405fd978329</guid>
+      <pubDate>Mon, 16 Dec 2024 15:59:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Uncover the unseen price tag of our climate crisis! 🌍💰 These 10 surprising facts shed light on the hidden costs we've overlooked. Join the conversation and let’s drive awareness together! #ClimateChange #Sustainability #HiddenCosts]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/eg9nylaph0nh3oaz9apcp/CCvideo-020-10-Facts-About-the-Hidden-Costs-of-Climate-Change.mp4?rlkey=uznhcnci50flglh9g6knlrzmt&amp;dl=1" medium="video">
+          <media:title><![CDATA[10 Facts About the Hidden Costs of Climate Change]]></media:title>
+          <media:description><![CDATA[Uncover the unseen price tag of our climate crisis! 🌍💰 These 10 surprising facts shed light on the hidden costs we've overlooked. Join the conversation and let’s drive awareness together! #ClimateChange #Sustainability #HiddenCosts]]></media:description>
+      </media:content>
+      <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/4cf9b482-a095-40c5-8236-9f7894cdf2bd/IMAGE/thumbnails/ca857e21-c73d-4b2e-9e64-e885cf8a8e40_CCvideo-020-10 Facts About the Hidden Costs of Climate Change.jpg" />
+    </item>
     </channel>
 </rss>
