@@ -413,5 +413,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
       <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/acc67ab5-a567-460e-9630-bccd57fc507d/IMAGE/thumbnails/b31ae68b-be79-4691-b93f-218176588c8c_CCvideo-031-Lightning Hotspots.jpg" />
     </item>
+    <item>
+      <title><![CDATA[Renewable Energy Myths Busted]]></title>
+      <link>https://www.dropbox.com/scl/fi/6fownujlba0ajl3y0ixlf/CCvideo-032-Renewable-Energy-Myths-Busted.mp4?rlkey=d9wt447mz0k6ll1bp1hloq54c&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">0996b0d2-c2fc-fdb1-e710-a479b62a5ddb</guid>
+      <pubDate>Tue, 17 Dec 2024 16:18:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Think you know the truth about renewable energy? It's time to debunk those common myths and unveil the facts! 🌞💨 Join the conversation and let's pave the way for a greener future together! #RenewableEnergy #MythBusting #GoGreen]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/6fownujlba0ajl3y0ixlf/CCvideo-032-Renewable-Energy-Myths-Busted.mp4?rlkey=d9wt447mz0k6ll1bp1hloq54c&amp;dl=1" medium="video">
+          <media:title><![CDATA[Renewable Energy Myths Busted]]></media:title>
+          <media:description><![CDATA[Think you know the truth about renewable energy? It's time to debunk those common myths and unveil the facts! 🌞💨 Join the conversation and let's pave the way for a greener future together! #RenewableEnergy #MythBusting #GoGreen]]></media:description>
+      </media:content>
+      <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/4e9ef632-572f-4e0c-95e3-eac29102a463/IMAGE/thumbnails/17747406-57c5-4cea-83bf-dbd2a242ddd0_CCvideo-032-Renewable Energy Myths Busted.jpg" />
+    </item>
     </channel>
 </rss>
