@@ -426,5 +426,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/4e9ef632-572f-4e0c-95e3-eac29102a463/IMAGE/thumbnails/17747406-57c5-4cea-83bf-dbd2a242ddd0_CCvideo-032-Renewable%20Energy%20Myths%20Busted.jpg" />
     </item>
+    <item>
+      <title><![CDATA[8 Fascinating Facts About Lightning]]></title>
+      <link>https://www.dropbox.com/scl/fi/5asid10tnsht4rlv5bmme/CCvideo-033-8-Fascinating-Facts-About-Lightning.mp4?rlkey=f378ow1h9kfe8osqz5vg4s0bc&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">b0cd32a4-b7b1-352a-9b95-9e744a6612fd</guid>
+      <pubDate>Fri, 20 Dec 2024 14:27:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Did you know that lightning can strike the same place multiple times? ⚡ It's one of nature's most mesmerizing phenomena. Dive in and discover 8 fascinating facts that will electrify your mind! #LightningFacts #NatureWonders #Electrifying 🌩️]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/5asid10tnsht4rlv5bmme/CCvideo-033-8-Fascinating-Facts-About-Lightning.mp4?rlkey=f378ow1h9kfe8osqz5vg4s0bc&amp;dl=1" medium="video">
+          <media:title><![CDATA[8 Fascinating Facts About Lightning]]></media:title>
+          <media:description><![CDATA[Did you know that lightning can strike the same place multiple times? ⚡ It's one of nature's most mesmerizing phenomena. Dive in and discover 8 fascinating facts that will electrify your mind! #LightningFacts #NatureWonders #Electrifying 🌩️]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/006b128a-a3f6-4bcf-a88b-16aa5e6d05a7/IMAGE/thumbnails/b389d819-aaf7-4ace-95ae-cf2efa8a1586_CCvideo-033-8%20Fascinating%20Facts%20About%20Lightning.jpg" />
+    </item>
     </channel>
 </rss>
