@@ -647,5 +647,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/03ea99bc-a729-4c45-b780-c5541e6e46ab/IMAGE/thumbnails/91f34df9-ef58-4ed7-8676-53c4d2e10fff_CCvideo-050-The%20Zero-Waste%20Movement.jpg" />
     </item>
+    <item>
+      <title><![CDATA[The Impact of Rare Earth Mining on the Environment]]></title>
+      <link>https://www.dropbox.com/scl/fi/f40xdc3tjzb344ffwpzbe/CCvideo-051-The-Impact-of-Rare-Earth-Mining-on-the-Environment.mp4?rlkey=2k0msvp5t3awmw13fiej1y5nk&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">c87573dd-8149-5144-7b89-e9c5e56e1a44</guid>
+      <pubDate>Mon, 23 Dec 2024 14:22:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Uncover the hidden costs of rare earth mining on our planet! 🌍 Let's dive into how this booming industry shapes our environment, for better or worse. The fight for sustainability is real—what can we do to make a difference? #RareEarth #Sustainability #EnvironmentalAwareness 🌱]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/f40xdc3tjzb344ffwpzbe/CCvideo-051-The-Impact-of-Rare-Earth-Mining-on-the-Environment.mp4?rlkey=2k0msvp5t3awmw13fiej1y5nk&amp;dl=1" medium="video">
+          <media:title><![CDATA[The Impact of Rare Earth Mining on the Environment]]></media:title>
+          <media:description><![CDATA[Uncover the hidden costs of rare earth mining on our planet! 🌍 Let's dive into how this booming industry shapes our environment, for better or worse. The fight for sustainability is real—what can we do to make a difference? #RareEarth #Sustainability #EnvironmentalAwareness 🌱]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/0d926bb1-53c3-47e4-a77f-0560b7e7891f/IMAGE/thumbnails/41c99c68-cf65-487e-bf24-be40e7488164_CCvideo-051-The%20Impact%20of%20Rare%20Earth%20Mining%20on%20the%20Environment.jpg" />
+    </item>
     </channel>
 </rss>
