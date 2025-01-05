@@ -1375,5 +1375,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/ad462927-5ca5-45ea-a29e-532652a39b1b/IMAGE/thumbnails/667ef055-6fe3-4f34-a8ae-6276b5e560f8_CCvideo-104-How%20Melting%20Glaciers%20Are%20Changing%20Global%20Sea%20Levels.jpg" />
     </item>
+    <item>
+      <title><![CDATA[The Role of Biodiversity in Climate Resilience]]></title>
+      <link>https://www.dropbox.com/scl/fi/gsk5urjhyxqoow16xuqsk/CCvideo-105-The-Role-of-Biodiversity-in-Climate-Resilience.mp4?rlkey=tlmytvedba4596vey35iiwwy6&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">569143de-b140-d457-4dc5-54953d315dfd</guid>
+      <pubDate>Wed, 08 Jan 2025 16:20:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Discover how diverse ecosystems bolster our planet's strength against climate change! 🌍 Biodiversity isn't just a beauty; it's essential for our survival and resilience. Let's learn to protect and cherish our natural world for a sustainable future. #Biodiversity #ClimateResilience #SaveOurPlanet 🌱]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/gsk5urjhyxqoow16xuqsk/CCvideo-105-The-Role-of-Biodiversity-in-Climate-Resilience.mp4?rlkey=tlmytvedba4596vey35iiwwy6&amp;dl=1" medium="video">
+          <media:title><![CDATA[The Role of Biodiversity in Climate Resilience]]></media:title>
+          <media:description><![CDATA[Discover how diverse ecosystems bolster our planet's strength against climate change! 🌍 Biodiversity isn't just a beauty; it's essential for our survival and resilience. Let's learn to protect and cherish our natural world for a sustainable future. #Biodiversity #ClimateResilience #SaveOurPlanet 🌱]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/c5614448-4280-4aa3-9d63-3475d0931e5d/IMAGE/thumbnails/e1d81b5f-94b3-4b09-8adb-bb859d5a0d19_CCvideo-105-The%20Role%20of%20Biodiversity%20in%20Climate%20Resilience.jpg" />
+    </item>
     </channel>
 </rss>
