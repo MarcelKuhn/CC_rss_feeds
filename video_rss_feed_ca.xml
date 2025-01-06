@@ -1453,5 +1453,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/19603792-dff0-4aec-b4ce-455a50fb03ee/IMAGE/thumbnails/db102d7d-6d7e-4a38-b1e9-0df120041edd_CCvideo-112-The%20Renewable%20Energy%20Myth:%20Why%20It%E2%80%99s%20Not%20as%20Clean%20as%20You%20Think.jpg" />
     </item>
+    <item>
+      <title><![CDATA[Wind Farms: Killing Wildlife and Scarring Landscapes]]></title>
+      <link>https://www.dropbox.com/scl/fi/hkbo9eim57et4qls797lx/CCvideo-113-Wind-Farms-Killing-Wildlife-and-Scarring-Landscapes.mp4?rlkey=kbkuzpz1lkvevt6onbwzb34zg&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">91ac98dd-9b8f-2092-e493-f9a15644e341</guid>
+      <pubDate>Thu, 09 Jan 2025 16:10:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Discover the hidden cost of wind farms on our wildlife and landscapes. 🌍 Are the benefits of renewable energy worth the sacrifices? Let's dive into this important conversation! #RenewableEnergy #WildlifeProtection #WindFarms⚡️]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/hkbo9eim57et4qls797lx/CCvideo-113-Wind-Farms-Killing-Wildlife-and-Scarring-Landscapes.mp4?rlkey=kbkuzpz1lkvevt6onbwzb34zg&amp;dl=1" medium="video">
+          <media:title><![CDATA[Wind Farms: Killing Wildlife and Scarring Landscapes]]></media:title>
+          <media:description><![CDATA[Discover the hidden cost of wind farms on our wildlife and landscapes. 🌍 Are the benefits of renewable energy worth the sacrifices? Let's dive into this important conversation! #RenewableEnergy #WildlifeProtection #WindFarms⚡️]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/9aaa6b2c-d064-4efb-b62d-104421505af9/IMAGE/thumbnails/3987a02d-3895-499a-9053-4757100f6b57_CCvideo-113-Wind%20Farms:%20Killing%20Wildlife%20and%20Scarring%20Landscapes.jpg" />
+    </item>
     </channel>
 </rss>
