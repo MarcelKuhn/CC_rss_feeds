@@ -1700,5 +1700,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/67bf8255-596e-4863-81a9-f6f68abc499d/IMAGE/thumbnails/8053eee6-3fd2-41e3-9df2-035e8504a8d4_CCvideo-133-Climate%20Challenges%20in%20the%20World%E2%80%99s%20Largest%20Rainforest.jpg" />
     </item>
+    <item>
+      <title><![CDATA[The Ticking Clock of Earth’s Core Collapse]]></title>
+      <link>https://www.dropbox.com/scl/fi/zc1hpk4cki1bju6bl2ngn/CCvideo-134-The-Ticking-Clock-of-Earth-s-Core-Collapse.mp4?rlkey=amwx45e1h7vboh8kpz0sxxt3a&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">1700a813-f97f-e355-c946-8cd02a39308f</guid>
+      <pubDate>Fri, 10 Jan 2025 15:40:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Time is running out as the Earth's core faces an unknown fate⏳. What happens when the clock ticks down? Join me on this thrilling exploration of our planet's mysteries! #EarthScience #NatureMystery 🌍✨]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/zc1hpk4cki1bju6bl2ngn/CCvideo-134-The-Ticking-Clock-of-Earth-s-Core-Collapse.mp4?rlkey=amwx45e1h7vboh8kpz0sxxt3a&amp;dl=1" medium="video">
+          <media:title><![CDATA[The Ticking Clock of Earth’s Core Collapse]]></media:title>
+          <media:description><![CDATA[Time is running out as the Earth's core faces an unknown fate⏳. What happens when the clock ticks down? Join me on this thrilling exploration of our planet's mysteries! #EarthScience #NatureMystery 🌍✨]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/ad18e29a-a609-415d-a8d3-4acf8d7bd5d6/IMAGE/thumbnails/68a273a5-1fba-4450-8bef-a4a87dc04b0a_CCvideo-134-The%20Ticking%20Clock%20of%20Earth%E2%80%99s%20Core%20Collapse.jpg" />
+    </item>
     </channel>
 </rss>
