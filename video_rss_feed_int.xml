@@ -1713,5 +1713,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/ad18e29a-a609-415d-a8d3-4acf8d7bd5d6/IMAGE/thumbnails/68a273a5-1fba-4450-8bef-a4a87dc04b0a_CCvideo-134-The%20Ticking%20Clock%20of%20Earth%E2%80%99s%20Core%20Collapse.jpg" />
     </item>
+    <item>
+      <title><![CDATA[The Rise of Dust Storms]]></title>
+      <link>https://www.dropbox.com/scl/fi/nkvnzyy643o4sgnz0drfr/CCvideo-135-The-Rise-of-Dust-Storms.mp4?rlkey=mpzrpw5uyz6wjjpzoa7m2wiq6&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">7e049ea1-6dd3-9af2-197a-cf28d260ef8b</guid>
+      <pubDate>Sat, 11 Jan 2025 16:09:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Witness the power of nature as dust storms sweep across the land! 🌪️ These relentless forces remind us of the delicate balance in our environment. Stay informed and prepared! #DustStorm #Nature #ClimateChange]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/nkvnzyy643o4sgnz0drfr/CCvideo-135-The-Rise-of-Dust-Storms.mp4?rlkey=mpzrpw5uyz6wjjpzoa7m2wiq6&amp;dl=1" medium="video">
+          <media:title><![CDATA[The Rise of Dust Storms]]></media:title>
+          <media:description><![CDATA[Witness the power of nature as dust storms sweep across the land! 🌪️ These relentless forces remind us of the delicate balance in our environment. Stay informed and prepared! #DustStorm #Nature #ClimateChange]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/f47675f2-9fc7-4ad6-bf86-8c7ae9b58cad/IMAGE/thumbnails/e6f924a6-d4f4-41b6-a91e-9d4b063711b4_CCvideo-135-The%20Rise%20of%20Dust%20Storms.jpg" />
+    </item>
     </channel>
 </rss>
