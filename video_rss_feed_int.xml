@@ -1791,5 +1791,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
       </media:content>
           <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/75f2d8dd-d78e-4118-bb10-7875d9904f90/IMAGE/thumbnails/977a26a6-5ccd-4ca6-8b54-888b84673d0f_CCvideo-147-7%20Hidden%20Costs%20of%20Fossil%20Fuels%20That%20Affect%20Your%20Wallet.jpg" />
     </item>
+    <item>
+      <title><![CDATA[The Ice Age That Could Freeze the Future]]></title>
+      <link>https://www.dropbox.com/scl/fi/9505imtepfr0v7zlpyyya/CCvideo-150-The-Ice-Age-That-Could-Freeze-the-Future.mp4?rlkey=fnnd5ss3doez1gwvbdzydkjpu&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">a2dd57c4-8521-38f7-0a96-8a3e50f11607</guid>
+      <pubDate>Fri, 10 Jan 2025 12:17:00 GMT</pubDate>
+      <dc:creator><![CDATA[Paul Dimtro, M.Sc.]]></dc:creator>
+      <description><![CDATA[Prepare to journey back in time as we explore the chilling realities of an Ice Age! ❄️ What could these frigid conditions mean for our planet's future? Get ready to uncover the secrets of climate change and its icy implications. #IceAge #ClimateChange #FrozenFuture 🧊]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/9505imtepfr0v7zlpyyya/CCvideo-150-The-Ice-Age-That-Could-Freeze-the-Future.mp4?rlkey=fnnd5ss3doez1gwvbdzydkjpu&amp;dl=1" medium="video">
+          <media:title><![CDATA[The Ice Age That Could Freeze the Future]]></media:title>
+          <media:description><![CDATA[Prepare to journey back in time as we explore the chilling realities of an Ice Age! ❄️ What could these frigid conditions mean for our planet's future? Get ready to uncover the secrets of climate change and its icy implications. #IceAge #ClimateChange #FrozenFuture 🧊]]></media:description>
+      </media:content>
+          <media:thumbnail url="https://d3uryq9bhgb5qr.cloudfront.net/TeamsMonthly/50ad4b7d-d94c-41dc-81b5-ab8e010ee2ab/e1ce9614-0282-4203-8491-20c960e36b77/IMAGE/thumbnails/3ef74102-c2b4-43db-8c7e-873f78bbf8e5_CCvideo-150-The%20Ice%20Age%20That%20Could%20Freeze%20the%20Future.jpg" />
+    </item>
     </channel>
 </rss>
